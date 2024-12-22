@@ -52,7 +52,7 @@ def main():
 	print(f" ") 
 	print(f"{Ye}*  {Blu}Tik Tok {Cy}OSINT  {Ye}******************************************")
 	print(f" ") 
-	print(f"{Grey}Created by Omicron6, reloaded by Crako")
+	print(f"{Grey}Created by Omicron6, reloaded by Alcyone6")
 	print(f"{Grey}A tool for Tik Tok user data scraping")
 	print(f"{Grey}Usage : main.py -u USERNAME -d (optionnal : download profile picture)")
 
