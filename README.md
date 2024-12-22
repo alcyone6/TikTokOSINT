@@ -11,15 +11,14 @@ TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's ver
 
 ## Installation
 ### Git method
-'''bash
-git clone https://github.com/alcyone6/TikTok-OSINT
+
+"git clone https://github.com/alcyone6/TikTok-OSINT
 cd TikTok-OSINT
-pip3 install -r requirements.txt
-'''
+pip3 install -r requirements.txt"
 
 ## Usage
 
-'''python3 main.py -u USERNAME -d'''
+"python3 main.py -u USERNAME -d"
 
 - Replace 'USERNAME' with the username, the @ in the username is optional.
 
@@ -43,6 +42,6 @@ The app gives the user a lot of meta-data about the account if it's public, less
 9. Like count
 10. Video Count
 11. Account verification status
-12 Private or public
-13 Account create date
-14 Nickname last modification
+12. Private or public
+13. Account create date
+14. Nickname last modification
