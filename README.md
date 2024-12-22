@@ -1,4 +1,4 @@
-# TikTok-OSINT Tool
+# TikTok OSINT Tool
 
 TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's version)
 
