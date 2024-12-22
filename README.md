@@ -15,7 +15,7 @@ It works under Linux and Windows. Tested with Debian 12 and Windows 11.
 ## Installation
 
 ### Git method
-- git clone https://github.com/alcyone6/TikTokOSINT"
+- git clone https://github.com/alcyone6/TikTokOSINT
 - cd TikTokOSINT"
 - pip3 install -r requirements.txt"
 
