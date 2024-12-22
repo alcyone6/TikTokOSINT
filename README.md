@@ -1,8 +1,11 @@
-# TikTok-OSINT Tool
+# TikTok OSINT Tool
 
 TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's version)
 
+It works under Linux and Windows. Tested with Debian 12 and Windows 11.
+
 ## Requirements
+
 - Python 3
 - pip
 - git (optional, just for git installation method)
@@ -10,22 +13,27 @@ TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's ver
 - unzip (optional, just for zip method)
 
 ## Installation
-### Git method
 
-"git clone https://github.com/alcyone6/TikTok-OSINT
-cd TikTok-OSINT
-pip3 install -r requirements.txt"
+### Git method
+- git clone https://github.com/alcyone6/TikTokOSINT
+- cd TikTokOSINT
+- pip3 install -r requirements.txt
+
+### Zip method
+- wget [https://github.com/alcyone6/TikTokOSINT/archive/refs/heads/master.zip]
+- unzip master.zip
+- cd TikTokOSINT-master
+- pip3 install -r requirements.txt
 
 ## Usage
 
 "python3 main.py -u USERNAME -d"
 
 - Replace 'USERNAME' with the username, the @ in the username is optional.
-
 - '-d' tells the tool to download the profile picture. This argument is optional.
-
 If you don't give any args to the app, don't worry, it will ask you again.
 
+![alt text](https://github.com/alcyone6/TikTokOSINT/blob/master/images/image.png?raw=true)
 
 ## Data
 
