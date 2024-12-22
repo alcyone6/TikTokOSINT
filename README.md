@@ -16,14 +16,14 @@ It works under Linux and Windows. Tested with Debian 12 and Windows 11.
 
 ### Git method
 - git clone https://github.com/alcyone6/TikTokOSINT
-- cd TikTokOSINT"
-- pip3 install -r requirements.txt"
+- cd TikTokOSINT
+- pip3 install -r requirements.txt
 
 ### Zip method
 - wget [https://github.com/alcyone6/TikTokOSINT/archive/refs/heads/master.zip]
 - unzip master.zip
-- cd TikTok-OSINT-master
--pip3 install -r requirements.txt
+- cd TikTokOSINT-master
+- pip3 install -r requirements.txt
 
 ## Usage
 
