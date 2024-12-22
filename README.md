@@ -2,6 +2,8 @@
 
 TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's version)
 
+It works under Linux and Windows. Tested with Debian 12 and Windows 11.
+
 ## Requirements
 - Python 3
 - pip
@@ -12,9 +14,9 @@ TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's ver
 ## Installation
 ### Git method
 
-"git clone https://github.com/alcyone6/TikTok-OSINT
-cd TikTok-OSINT
-pip3 install -r requirements.txt"
+"git clone https://github.com/alcyone6/TikTokOSINT"
+"cd TikTokOSINT"
+"pip3 install -r requirements.txt"
 
 ## Usage
 
@@ -26,6 +28,7 @@ pip3 install -r requirements.txt"
 
 If you don't give any args to the app, don't worry, it will ask you again.
 
+![alt text](https://github.com/alcyone6/TikTokOSINT/blob/master/image.png?raw=true)
 
 ## Data
 
