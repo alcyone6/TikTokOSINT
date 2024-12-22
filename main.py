@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 # TikTok OSINT Tool
-# @author https://github.com/sc1341
+# @author https://github.com/alcyone6
 # 
 # The creator nor any contributors are responsible for any illicit
 # use of this program
@@ -52,7 +52,7 @@ def main():
 	print(f" ") 
 	print(f"{Ye}*  {Blu}Tik Tok {Cy}OSINT  {Ye}******************************************")
 	print(f" ") 
-	print(f"{Grey}Created by sc1341, reloaded by Crako")
+	print(f"{Grey}Created by Omicron6, reloaded by Crako")
 	print(f"{Grey}A tool for Tik Tok user data scraping")
 	print(f"{Grey}Usage : main.py -u USERNAME -d (optionnal : download profile picture)")
 
