@@ -28,7 +28,7 @@ It works under Linux and Windows. Tested with Debian 12 and Windows 11.
 
 If you don't give any args to the app, don't worry, it will ask you again.
 
-![alt text](https://github.com/alcyone6/TikTokOSINT/blob/master/image.png?raw=true)
+![alt text](https://github.com/alcyone6/TikTokOSINT/blob/master/images/image.png?raw=true)
 
 ## Data
 
