@@ -17,9 +17,11 @@ It works under Linux and Windows. Tested with Debian 12 and Windows 11.
 ## Installation
 
 ### Git method
+'''bash
 - git clone https://github.com/alcyone6/TikTokOSINT
 - cd TikTokOSINT
 - pip3 install -r requirements.txt
+bash'''
 
 ### Zip method
 - wget [https://github.com/alcyone6/TikTokOSINT/archive/refs/heads/master.zip]
