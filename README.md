@@ -4,6 +4,8 @@ TikTok Social Media Open Source Intelligence Tool (reloaded from Omicron66's ver
 
 It works under Linux and Windows. Tested with Debian 12 and Windows 11.
 
+![alt text](https://github.com/alcyone6/TikTokOSINT/blob/master/images/image.png?raw=true)
+
 ## Requirements
 
 - Python 3
@@ -32,8 +34,6 @@ It works under Linux and Windows. Tested with Debian 12 and Windows 11.
 - Replace 'USERNAME' with the username, the @ in the username is optional.
 - '-d' tells the tool to download the profile picture. This argument is optional.
 If you don't give any args to the app, don't worry, it will ask you again.
-
-![alt text](https://github.com/alcyone6/TikTokOSINT/blob/master/images/image.png?raw=true)
 
 ## Data
 
